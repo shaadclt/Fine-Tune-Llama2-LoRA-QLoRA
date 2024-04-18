@@ -1,4 +1,4 @@
-# Llama-2-7b-Chat Fine-tuned with LoRA and QLoRA
+# Fine-tuneing Llama2 using LoRA and QLoRA
 
 This repository contains the code for fine-tuning the Llama-2-7b-chat model on a text instruction dataset using LoRA (Layer-wise Only Relevant Attention) and QLoRA (Quantized LoRA).
 
